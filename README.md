@@ -3,4 +3,8 @@
 pip --version
 pip 22.0.3
 
+tensorflow
+Version: 2.2.0
+
+
 
